@@ -1,4 +1,4 @@
-# Sales-and-Inventory-Management-System
+# Sales and Inventory Management System
 
 #### Sales and Inventory Management System is a Tkinter (python module) based GUI application to generate sales invoices and maintence of inventory.
 
